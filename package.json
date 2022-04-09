@@ -17,7 +17,7 @@
     "electron": "^5.0.4",
     "fast-csv": "^2.5.0",
     "iconv-lite": "^0.4.24",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "node-xlsx": "^0.14.1",
     "v-calendar": "^1.0.0-beta.14",
     "vue": "^2.6.10",
